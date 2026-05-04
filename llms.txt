@@ -1,0 +1,62 @@
+# Gold Coast
+
+> Geotechnical engineering company in United States, providing professional services in soil mechanics, foundation engineering and site investigation.
+
+## Services
+- [Active Passive Anchor Design](https://gold-coast.geotechnicalengineering1.xyz/active-passive-anchor-design/)
+- [Cbr Study Road Design](https://gold-coast.geotechnicalengineering1.xyz/cbr-study-road-design/)
+- [Collapsible Soil Evaluation](https://gold-coast.geotechnicalengineering1.xyz/collapsible-soil-evaluation/)
+- [Cone Penetration](https://gold-coast.geotechnicalengineering1.xyz/cone-penetration/)
+- [Driven Pile Design](https://gold-coast.geotechnicalengineering1.xyz/driven-pile-design/)
+- [Dynamic Compaction Design](https://gold-coast.geotechnicalengineering1.xyz/dynamic-compaction-design/)
+- [Electrical Resistivity Ves](https://gold-coast.geotechnicalengineering1.xyz/electrical-resistivity-ves/)
+- [Existing Pavement Evaluation](https://gold-coast.geotechnicalengineering1.xyz/existing-pavement-evaluation/)
+- [Exploratory Pit](https://gold-coast.geotechnicalengineering1.xyz/exploratory-pit/)
+- [Factor Safety](https://gold-coast.geotechnicalengineering1.xyz/factor-safety/)
+- [Field Permeability](https://gold-coast.geotechnicalengineering1.xyz/field-permeability/)
+- [Flat Dilatometer](https://gold-coast.geotechnicalengineering1.xyz/flat-dilatometer/)
+- [Foundations](https://gold-coast.geotechnicalengineering1.xyz/foundations/)
+- [Foundations Fill](https://gold-coast.geotechnicalengineering1.xyz/foundations-fill/)
+- [Geocell Design](https://gold-coast.geotechnicalengineering1.xyz/geocell-design/)
+- [Geogrid Specification](https://gold-coast.geotechnicalengineering1.xyz/geogrid-specification/)
+- [Geomembrane Specification](https://gold-coast.geotechnicalengineering1.xyz/geomembrane-specification/)
+- [Geophysics](https://gold-coast.geotechnicalengineering1.xyz/geophysics/)
+- [Geotechnical Design Deep Excavations](https://gold-coast.geotechnicalengineering1.xyz/geotechnical-design-deep-excavations/)
+- [Geotechnical Drainage Design](https://gold-coast.geotechnicalengineering1.xyz/geotechnical-drainage-design/)
+- [Geotechnical Road Drainage](https://gold-coast.geotechnicalengineering1.xyz/geotechnical-road-drainage/)
+- [Geotextile Specification](https://gold-coast.geotechnicalengineering1.xyz/geotextile-specification/)
+- [Grain Size Analysis](https://gold-coast.geotechnicalengineering1.xyz/grain-size-analysis/)
+- [Ground Improvement](https://gold-coast.geotechnicalengineering1.xyz/ground-improvement/)
+- [Ground Penetrating Radar](https://gold-coast.geotechnicalengineering1.xyz/ground-penetrating-radar/)
+- [In Situ Testing](https://gold-coast.geotechnicalengineering1.xyz/in-situ-testing/)
+- [Investigation](https://gold-coast.geotechnicalengineering1.xyz/investigation/)
+- [Jet Grouting Design](https://gold-coast.geotechnicalengineering1.xyz/jet-grouting-design/)
+- [Laboratory](https://gold-coast.geotechnicalengineering1.xyz/laboratory/)
+- [Laboratory Permeability](https://gold-coast.geotechnicalengineering1.xyz/laboratory-permeability/)
+- [Landfill Geotechnics](https://gold-coast.geotechnicalengineering1.xyz/landfill-geotechnics/)
+- [Lime Cement Stabilization](https://gold-coast.geotechnicalengineering1.xyz/lime-cement-stabilization/)
+- [Mechanically Stabilized Earth](https://gold-coast.geotechnicalengineering1.xyz/mechanically-stabilized-earth/)
+- [Menard Pressuremeter](https://gold-coast.geotechnicalengineering1.xyz/menard-pressuremeter/)
+- [Micropile Design](https://gold-coast.geotechnicalengineering1.xyz/micropile-design/)
+- [Pavement Subgrade Design](https://gold-coast.geotechnicalengineering1.xyz/pavement-subgrade-design/)
+- [Pile Foundation Design](https://gold-coast.geotechnicalengineering1.xyz/pile-foundation-design/)
+- [Pile Skin Friction Vs](https://gold-coast.geotechnicalengineering1.xyz/pile-skin-friction-vs/)
+- [Plate Load](https://gold-coast.geotechnicalengineering1.xyz/plate-load/)
+- [Porchet Double Ring Infiltrometer](https://gold-coast.geotechnicalengineering1.xyz/porchet-double-ring-infiltrometer/)
+- [Prefabricated Vertical Drain](https://gold-coast.geotechnicalengineering1.xyz/prefabricated-vertical-drain/)
+- [Preloading Surcharge Design](https://gold-coast.geotechnicalengineering1.xyz/preloading-surcharge-design/)
+- [Refraction Reflection](https://gold-coast.geotechnicalengineering1.xyz/refraction-reflection/)
+- [Residual Soil Characterization](https://gold-coast.geotechnicalengineering1.xyz/residual-soil-characterization/)
+- [Retaining Wall Design](https://gold-coast.geotechnicalengineering1.xyz/retaining-wall-design/)
+- [Rigid Pavement Design](https://gold-coast.geotechnicalengineering1.xyz/rigid-pavement-design/)
+- [Road Embankment Design](https://gold-coast.geotechnicalengineering1.xyz/road-embankment-design/)
+- [Road Geotechnics](https://gold-coast.geotechnicalengineering1.xyz/road-geotechnics/)
+- [Road Subgrade Design](https://gold-coast.geotechnicalengineering1.xyz/road-subgrade-design/)
+- [Seismic](https://gold-coast.geotechnicalengineering1.xyz/seismic/)
+
+## Contact
+- Website: https://gold-coast.geotechnicalengineering1.xyz/
+
+## About
+This page provides information about geotechnical engineering services available in United States.
+The company complies with local and international standards including ASTM, ISO and country-specific norms.
